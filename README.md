@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 A Frontend Developer living in Turkey.
-- 🔭 I’m currently working on **Reactjs**
-- 🌱 I’m currently learning **Nextjs**, **TypeScript**
 
 <table align="center">
   <tr>
@@ -24,6 +22,8 @@ A Frontend Developer living in Turkey.
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on **Reactjs**
+- 🌱 I’m currently learning **Nextjs**, **TypeScript**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
