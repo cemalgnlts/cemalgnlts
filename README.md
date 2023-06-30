@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Cemal (@cemalgnlts), I am a 24 year old developer from Türkiye (🇹🇷). I mostly do Web Desgin/Developement with React and Node.js
+My name is Cemal (@cemalgnlts), I am a 24 year old developer from Türkiye (🇹🇷). I mostly do Web Developement with React and Node.js
 
 <table align="center">
   <tr>
