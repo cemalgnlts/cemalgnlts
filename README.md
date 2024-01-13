@@ -6,7 +6,7 @@ My name is Cemal (@cemalgnlts), I am a 24 year old developer from Türkiye (🇹
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=cemalgnlts&custom_title=GitHub+Stats&show_icons=true&theme=tokyonight" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=cemalgnlts&custom_title=GitHub+Stats&hide_rank=true&show_icons=true&theme=tokyonight" />
       </a>
     </td>
     <td>
