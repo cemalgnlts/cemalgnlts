@@ -1,8 +1,5 @@
 ### Hi there 👋
 
->[!IMPORTANT]
->I will be offline until `01/02/2025`.
-
 My name is Cemal (@cemalgnlts), I am a 24 year old developer from Türkiye (🇹🇷). I mostly do Web Developement.
 
 <table align="center">
