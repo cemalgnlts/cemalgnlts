@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Cemal (@cemalgnlts), I am a 24 year old developer from Türkiye (🇹🇷). I mostly do Web Developement.
+My name is Cemal (@cemalgnlts), I'm 25 years old and I'm a front-end developer from Turkey. I love to build things, explore and tinker.
 
 <table align="center">
   <tr>
